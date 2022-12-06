@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 <!--
 - 🤔 I’m looking for help with ...
 -->
-- 💬 Ask me about anything you are interested in.
+- 💬 Ask me about anything you are interested in me.
 - 📫 How to reach me: yinkn2022@shanghaitech.edu.cn
 
 
