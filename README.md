@@ -6,9 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Reinforcement Learning and Motion Intelligence.
-<!--
-- 🌱 I’m currently learning ...
--->
+- 🌱 My goal is to build a general embodied robotics system!
 - 👯 I’m looking to collaborate on anyone interested in RL especially applied in Robotics and Motion Intelligence.
 <!--
 - 🤔 I’m looking for help with ...
