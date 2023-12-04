@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Reinforcement Learning and Motion Intelligence.
+- 🔭 I’m currently working on Reinforcement Learning and Humanoid Robot.
 
 - 🌱 My goal is to build a general embodied robotics system!
 
