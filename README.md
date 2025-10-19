@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 -->
 - 💬 Ask me about anything you are interested in me.
 
-- 📫 How to reach me: yinkn2022@shanghaitech.edu.cn
+- 📫 How to reach me: colinyin2000@gmail.com
 
 
